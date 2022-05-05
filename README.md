@@ -1,1 +1,1 @@
-# Projet-d-algorithmique-en-Java
+# Projet d'algorithmique en Java
