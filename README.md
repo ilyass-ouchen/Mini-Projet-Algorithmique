@@ -1,1 +1,2 @@
-# Projet d'algorithmique en Java
+# Projet d'algorithmique en Java sur la complexité
+
